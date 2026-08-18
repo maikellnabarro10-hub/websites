@@ -1,6 +1,4 @@
-# User manual
-
-[[toc]]
+# Umai
 
 ## Start Shizuku
 
